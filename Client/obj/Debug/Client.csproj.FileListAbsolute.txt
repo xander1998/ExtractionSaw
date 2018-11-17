@@ -1,0 +1,8 @@
+C:\Users\Xander\source\repos\ExtractionSaw\Client\bin\Debug\Client.dll
+C:\Users\Xander\source\repos\ExtractionSaw\Client\bin\Debug\Client.pdb
+C:\Users\Xander\source\repos\ExtractionSaw\Client\bin\Debug\CitizenFX.Client.dll
+C:\Users\Xander\source\repos\ExtractionSaw\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Xander\Desktop\DevelopmentServer\resources\saw-csharp\Client.net.dll
+C:\Users\Xander\source\repos\ExtractionSaw\Client\obj\Debug\Client.net.dll
+C:\Users\Xander\source\repos\ExtractionSaw\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Xander\source\repos\ExtractionSaw\Client\obj\Debug\Client.csproj.CopyComplete

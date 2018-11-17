@@ -1,0 +1,9 @@
+C:\Users\Xander\source\repos\ExtractionSaw\Server\bin\Release\Server.net.dll
+C:\Users\Xander\source\repos\ExtractionSaw\Server\bin\Release\Server.net.pdb
+C:\Users\Xander\source\repos\ExtractionSaw\Server\bin\Release\CitizenFX.Server.dll
+C:\Users\Xander\source\repos\ExtractionSaw\Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\Xander\source\repos\ExtractionSaw\Server\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\Xander\source\repos\ExtractionSaw\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\ExtractionSaw\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\Xander\source\repos\ExtractionSaw\Server\obj\Release\Server.net.dll
+C:\Users\Xander\source\repos\ExtractionSaw\Server\obj\Release\Server.net.pdb
